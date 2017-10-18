@@ -5,8 +5,6 @@ package github.test;
  */
 public class GitDemo {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("share project on github");
         System.out.println("111");
     }
 }
